@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Arithmetic Operations</string>
+    <string name="button">Button</string>
+    <string name="enter">Enter</string>
+    <string name="e_g_8">e.g 8</string>
+    <string name="e_g_1">e.g 1</string>
+    <string name="e_g_2">e.g 2</string>
+    <string name="equals">=</string>
+    <string name="addition">+</string>
+    <string name="subtraction">-</string>
+    <string name="multiplication">x</string>
+    <string name="divide">/</string>
+    <string name="division">/</string>
+</resources>
